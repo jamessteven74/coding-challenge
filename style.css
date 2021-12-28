@@ -1,0 +1,123 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+
+
+
+
+
+.main-border{
+  /* border: solid 1px; */
+  background-color: rgba(0, 0, 0, 0.6);
+  margin:auto;
+  margin-top: 30px;
+  width: 1600px;
+  height: 1150px;
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+
+
+
+
+
+header{
+  margin: auto;
+  width: 700px;
+  height: 350px;
+  text-align: center;
+
+}
+
+
+.logo{
+  width: 50%;
+  margin-top: 135px;
+}
+
+
+h1{
+  text-align: center;
+  width: 650px;
+  margin-top: 4px;
+  color: rgb(0, 255, 0);
+  font-size: 35px;
+  font-family: 'Poppins', sans-serif;
+  padding-left: 10px;
+}
+
+
+nav{
+  /* border: solid 1px; */
+  text-align: center;
+  height: 60px;
+  box-sizing: border-box;
+  background-color: rgb(0, 255, 0);
+  margin-left: 120px;
+  margin-right: 130px;
+  margin-top: 10px;
+}
+
+
+input[type="button"]{
+  margin-top: 20px;
+
+
+}
+
+div >p {
+  margin: 0px;
+}
+.monopattini{
+  margin-top: 30px;
+  margin-left: 120px;
+
+}
+
+.freccia:before{
+  content: ' \21F0';
+}
+
+.stato-carica1{
+  /* border: solid 1px; */
+  background-color: rgb(255, 184, 69);
+  margin-left: 120px;
+  margin-right: 1000px;
+  height: 40px;
+  border-radius: 7px;
+}
+
+.stato-carica2{
+  background-color: rgb(86, 215, 60);
+  margin-left: 120px;
+  margin-right: 700px;
+  height: 40px;
+  border-radius: 7px;
+}
+
+.stato-carica3{
+  background-color: rgb(212, 62, 63);
+  margin-left: 120px;
+  margin-right: 1280px;
+  height: 40px;
+  border-radius: 7px;
+}
+span{
+  font-weight: bold;
+  font-size: 32px;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 1px;
+}
+
+p{
+  font-size: 22px;
+  font-family: 'Poppins', sans-serif;
+}
+
+    
